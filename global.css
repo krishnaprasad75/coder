@@ -1,0 +1,46 @@
+.body{
+    background-color: darkgrey;
+}
+.main{
+    max-width: 1280px;
+    max-height: 100%;
+    margin: 30px auto;
+    padding: 15px;
+    background-color: rgba(217, 80, 78, 0.459);
+    border-radius: 10px;
+    font-family:   sans-serif;
+}
+.title{
+    text-align: center;
+}
+.main > p{
+    text-align: center;
+}
+.img-div{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #d9504e2d;
+}
+.image{
+   
+    display: block;
+    max-width: 600px;
+    padding-bottom: 10px;
+
+}
+.info{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.info > h3{
+    text-align: center;
+}
+.info > ul li{
+    margin-bottom: 10px;
+    line-height: 30px;
+
+}
+h5{
+    text-align: center;
+}
